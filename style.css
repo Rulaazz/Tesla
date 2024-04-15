@@ -1,0 +1,129 @@
+
+
+      body
+      {
+        background: url('./model-3video.mp4');
+        background-repeat:no-repeat;
+       
+      } 
+      
+     .pass
+     {
+       background: #01193e;
+       text-align: center;
+       padding: 20px 100px;
+       margin-top: -20px;
+       
+     }
+    
+     svg
+     {
+        width: 120px;
+        display: inline;
+     }
+     .icon
+     {
+        text-align:left;
+        margin-top: -80px;
+        margin-left: 1300px;
+
+     }
+     .icon svg
+     {
+        width: 40px;
+     }
+     .icon svg:hover
+        {
+         background-color:gray;
+         
+        }
+  
+     div
+     {
+       font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       color: white;
+       text-align:center; 
+       margin:0 auto; 
+       width: auto;
+     }
+     li 
+     {
+       padding: 20px;
+       display:inline;
+       color: white;
+       font-size: 20px;
+     }
+    
+     .view
+     {
+       /* border-bottom: dotted 1dx white;*/
+        margin-top: -30px;
+        font-size: 14px;
+     }
+     .center
+     {
+        margin-top: 100px;
+     }
+     h1
+     {
+        line-height: 2.4em;
+     }
+     .page2
+     {
+        background: url('./Tesla-Model-3.jpg') no-repeat top right;
+        background-size: 1500px;
+     }
+
+     .flex-container
+        {
+          display: flex;
+          margin-left: 500px;
+        }
+        .item
+        {
+            
+            margin: 20px;
+            padding: 10px;
+            text-align: center;
+            line-height: 0em;
+            margin-top: 300px;
+           
+            
+        }
+.btn
+{
+    margin-left: 500px;
+}
+
+        .btn2 
+    {
+      text-align: center; margin:0 auto;
+      background: white;
+      color: black;
+      border: none;
+      font-size: 16px;
+      padding: 5px 50px;
+      border-radius: 5px;
+    }
+    
+    .btn4 
+    {
+      text-align: center; margin:0 auto;
+      background: none;
+      color: white;
+      border:2px white;
+      font-size: 16px;
+      padding: 5px 50px;
+      border-radius: 5px;
+      border-style: ridge;
+    }
+        .btn4:hover
+   {
+    color:black;
+    background: white;
+   }
+   .btn2:hover
+   {
+    color:none;
+    background: rgb(225, 221, 221);
+   }
